@@ -1,4 +1,5 @@
-## AVR Training Board Exclusive for IR Exercises
+## AVR Training Boards
 
-### Gallery of the Repository
-![](TrainingBoard_IR/Pictures/Album.jpg)
+### AVR Training Board Exclusive for IR Exercises
+Pictures: v1.0
+![](Pictures/v1.0.jpg)

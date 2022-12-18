@@ -1,4 +1,4 @@
-## IR Training Board
+## AVR Training Board Exclusive for IR Exercises
 
 MCU:        ATmega32   
 Frequency:  10MHz  
