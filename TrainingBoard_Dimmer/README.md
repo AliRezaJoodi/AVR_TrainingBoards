@@ -7,8 +7,7 @@ Interface:  RS232
 
 ### Folder and Files Description
 It has included:
-- `Code_BascomAVR` (Sample Codes with Basic Language)
-- `Code_CodeVisionAVR` (Code with C Language)
+- `Example` (Sample Codes)
 - `Hardware` (Included hardware layers)
 - `Pictures` (Photos Samples Made)
 - `Simulate` (Simulator File)

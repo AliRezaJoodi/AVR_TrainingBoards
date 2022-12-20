@@ -6,8 +6,9 @@ Interface:  RS232
 
 ### Folder and Files Description
 It has included:
-- `Code_BascomAVR` (Sample Codes with Basic Language)
+- `Example` (Sample Codes)
 - `Hardware` (Included hardware layers)
+- `Pictures` (Photos Samples Made)
 
 ### Pictures: v1.0
 ![](Pictures/v1.0.jpg)
