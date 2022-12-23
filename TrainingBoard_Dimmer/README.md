@@ -1,7 +1,7 @@
 ## AVR Training Board Exclusive for Dimmer
 
 MCU:        ATmega32   
-Frequency:  11.059200MHz (Eternal) 
+Frequency:  11.059200MHz (External) 
 
 Digital Input:
 - Zero Crossing Pulse 
