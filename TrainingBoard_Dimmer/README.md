@@ -1,9 +1,27 @@
 ## AVR Training Board Exclusive for Dimmer
 
 MCU:        ATmega32   
-Frequency:  10MHz 
-Display:    16x2 Character LCD     
-Interface:  RS232   
+Frequency:  11.059200MHz (Eternal) 
+
+Digital Input:
+- Zero Crossing Pulse 
+- Button (5x)
+ 
+Analog Input:
+- 4~20mA
+- Temp Sensor LM35
+- Potentiometer 
+
+Digital Output:
+- SCR Pulse (2x)	  
+- LED (8)
+- Buzzer
+- 16x2 Character LCD
+- RS232
+
+Analog Output:
+- 4~20mA
+- 0~5V
 
 ### Folder and Files Description
 It has included:
