@@ -6,14 +6,14 @@ Features:
 - Dual isolated power supply for SCR drivers
 - SCR Gate Driver (2x)
 - Zero Crossing Detector
+- 4~20mA Analog Input
 - 4~20mA Analog Output
 - 0~5V Analog Output
-- 16x2 Character LCD
 - RS232
 - RS485
+- 16x2 Character LCD
 - LED (8x)
 - Buzzer
-- 4~20mA Analog Input
 - Temp Sensor LM35
 - Potentiometer 
 - Button (5x)
