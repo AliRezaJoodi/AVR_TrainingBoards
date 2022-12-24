@@ -1,27 +1,22 @@
 ## AVR Training Board Exclusive for Dimmer
 
-MCU:        ATmega32   
-Frequency:  11.059200MHz (External) 
-
-Digital Input:
-- Zero Crossing Pulse 
-- Button (5x)
- 
-Analog Input:
-- 4~20mA
-- Temp Sensor LM35
-- Potentiometer 
-
-Digital Output:
-- SCR Pulse (2x)	  
-- LED (8)
-- Buzzer
+Features:
+- ATmega32 Microcontroller 
+- 11.059200MHz External Crystal
+- Dual isolated power supply for SCR drivers
+- SCR Gate Driver (2x)
+- Zero Crossing Detector
+- 4~20mA Analog Output
+- 0~5V Analog Output
 - 16x2 Character LCD
 - RS232
-
-Analog Output:
-- 4~20mA
-- 0~5V
+- RS485
+- LED (8x)
+- Buzzer
+- 4~20mA Analog Input
+- Temp Sensor LM35
+- Potentiometer 
+- Button (5x)
 
 ### Folder and Files Description
 It has included:

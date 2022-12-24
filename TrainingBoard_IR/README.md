@@ -1,8 +1,13 @@
 ## AVR Training Board Exclusive for IR Exercises
 
-MCU:        ATmega32   
-Frequency:  10MHz  
-Interface:  RS232   
+Features:
+- ATmega32 Microcontroller 
+- 10MHz External Crystal
+- IR Module Receiver
+- IR Sender
+- RS232
+- LED (4x)
+- Button (3x)  
 
 ### Folder and Files Description
 It has included:
