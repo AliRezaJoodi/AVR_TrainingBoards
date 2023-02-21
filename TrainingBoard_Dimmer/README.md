@@ -14,8 +14,8 @@ Features:
 - 16x2 Character LCD
 - LED (8x)
 - Buzzer
-- Temp Sensor LM35
-- Potentiometer 
+- LM35 Temp Sensor
+- Potentiometer for ADC
 - Button (5x)
 
 ### Folder and Files Description
